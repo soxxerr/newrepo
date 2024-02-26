@@ -1,0 +1,225 @@
+ 
+ 
+    body {
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        font-family: Arial, Helvetica, sans-serif;
+        
+ }
+
+ 
+
+ header {
+    background: linear-gradient(to right, #ffffff, #fffcfc, #ffffff);
+    padding: 15px 0;
+    text-align: center;
+    width: 700px;
+    margin: 20px;
+  }
+
+  .navigationbar{display: flex;
+    justify-content: space-between;
+    padding: 10px;}
+
+    main{
+        text-align: center;
+        
+        background-color: #ffffff;
+       border-radius: 8px;
+       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+       width: 700px;
+    
+      } 
+
+      .sub{
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 0.5em 1em;
+        margin: 0.25em;
+        border-radius: 2em;
+        border: none;
+        outline: none;
+        background-color: crimson;
+        color: white;
+        
+    
+      }
+
+      .login{
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 0.5em 1em;
+        margin: 0.25em;
+        border-radius: 2em ;
+        border-color: crimson;
+        width: 60px;
+        color: crimson;
+        
+        outline: none;
+        outline: none;
+        background-color: #ffffff;
+      }
+
+
+      .sec1{
+        
+        justify-items: center;
+        justify-content: center;
+        text-align: center;
+
+
+      }
+
+      #plan{ display: flex;
+             justify-content: space-between;
+             margin: auto;
+             width: 85%;
+             justify-items: center;
+             
+           
+    }
+    #basic{
+           height: 200px;
+           width: 180px;
+           background-color: rgba(25, 25, 255, 0.507);
+           color: #fffcfc;
+           padding: 20px;
+           border-radius: 8px;
+    }
+    #plus{
+           height: 200px;
+           width: 180px;
+           background-color: rgba(46, 46, 194, 0.727);
+           color: #fffcfc;
+           margin-left: 20px;
+           margin-right: 20px;
+           padding: 20px;
+           border-radius: 8px;
+    }
+    #Premium{
+           height: 200px;
+           width: 180px;
+           background-color: rgba(124, 14, 243, 0.878);
+           color: #fffcfc;
+           padding: 20px;
+           border-radius: 8px;
+           
+    }
+
+    .para{  
+        
+        font-size: larger;
+        
+
+          
+    }
+
+    #noor{font-size: xx-small;
+        
+         
+    }
+
+    #signup{
+        margin-top: 19px;
+        padding-left: 20px;
+        padding-right: 20px;
+
+
+    }
+    #sigg{
+        width: 100px;
+        padding: 5px;
+        border: 1px solid white;
+        color: white;
+        background-color: transparent;
+        border-radius: 2em;
+       
+        outline: none;
+        
+    }
+    
+    .img2{
+        margin-top: 40px;
+    }
+
+   
+    #secimg{ 
+        display: flex;
+        justify-content: center;
+
+    }
+    
+    #secimg2{
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .midd{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .social-icons{display: flex;
+                  justify-content: space-between;
+                  width: 90px;
+                  
+    }
+
+    #foot{justify-content: space-between;
+           display: flex;
+           padding: 15px 15px;
+           
+           text-align: center;
+            width: 700px;
+            margin: 20px;
+            background-color: rgba(57 145 239);
+    }
+    
+      /* .img1{position: absolute;}
+      .hero{position: absolute;} */
+      
+  
+  /* nav {
+    display: flex;
+    justify-content: center;
+  }
+  
+  nav ul {
+    font-size: smaller;
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+  }
+  
+  #subscribe{
+
+    background-color: crimson;
+    border-radius: 20px;
+    padding: 4px;
+    font-size: smaller;
+   
+  }
+  nav ul li {
+    margin: 0 20px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  nav ul li a:hover {
+    
+  }
+   */
+
+  
